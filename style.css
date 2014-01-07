@@ -4,10 +4,10 @@
         fill: none;
     }
     circle {
-        stroke: steelblue;
+        stroke: black;
     }
 
-    .graph {
+    .graph > svg {
         border: 1px solid;
         border-color: #d3d3d3;
     }
